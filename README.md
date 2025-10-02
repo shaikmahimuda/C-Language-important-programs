@@ -1,2 +1,2 @@
-# C-Language-important-programs
-All topics important programs in c language
+# C-Language-important-basic-programs
+All topics important and basic programs in c language
